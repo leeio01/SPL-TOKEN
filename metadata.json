@@ -1,8 +1,11 @@
 {
   "name": "Signal Token",
   "symbol": "SIGNAL",
-  "description": "Signal Token (SIGNAL) — fixed supply SPL token.",
+  "uri": "https://raw.githubusercontent.com/leeio01/SPL-TOKEN/main/metadata.json",
+  "description": "Signal Token on Solana Devnet",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/leeio01/SPL-TOKEN/main/LOGO.png",
+  "external_url": "",
   "attributes": [],
   "properties": {
     "files": [
