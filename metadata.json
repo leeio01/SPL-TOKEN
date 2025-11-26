@@ -2,7 +2,7 @@
   "name": "Signal Token",
   "symbol": "SIGNAL",
   "description": "Signal Token (SIGNAL) is a fixed-supply SPL token on the Solana Devnet.",
-  "image": "",
+  "image": "https://github.com/leeio01/SPL-TOKEN/blob/main/LOGO.png",
   "properties": {
     "category": "token",
     "creators": []
