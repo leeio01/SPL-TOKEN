@@ -1,0 +1,10 @@
+{
+  "name": "Signal Token",
+  "symbol": "SIGNAL",
+  "description": "Signal Token (SIGNAL) is a fixed-supply SPL token on the Solana Devnet.",
+  "image": "",
+  "properties": {
+    "category": "token",
+    "creators": []
+  }
+}
