@@ -2,7 +2,7 @@
     "name": "Signal Token",
     "symbol": "SIGNAL",
     "description": "Only Possible On Solana",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "image": "https://raw.githubusercontent.com/leeio01/SPL-TOKEN/main/logo.jpg",
     "attributes": [
       {
         "trait_type": "Item",
